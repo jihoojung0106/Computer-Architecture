@@ -1,1 +1,1 @@
-# computer_architecture
+# (23-1) SNU 컴퓨터 구조
